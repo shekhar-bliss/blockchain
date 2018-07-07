@@ -1,0 +1,22 @@
+Miners validate new transactions and record them on the global ledger ( blockchain ).
+
+
+--------------------------------------------------------------------------------
+Bitcoin mining
+--------------------------------------------------------------------------------
+Bitcoin mining is legal and is accomplished by running SHA256 double round hash
+verification processes in order to validate Bitcoin transactions and provide the
+requisite security for the public ledger of the Bitcoin network.
+
+
+The speed at which you mine Bitcoins is measured in hashes per second.
+
+
+The Bitcoin network compensates Bitcoin miners for their effort by releasing
+bitcoin to those who contribute the needed computational power. This comes in
+the form of both newly issued bitcoins and from the transaction fees included in
+the transactions validated when mining bitcoins. The more computing power you
+contribute then the greater your share of the reward.
+
+
+
